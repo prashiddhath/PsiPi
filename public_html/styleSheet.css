@@ -1,0 +1,166 @@
+body {
+	background-color: #f0f0ff;
+}
+
+header {
+	height: 120px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+        background-color: #131069;
+}
+
+header img {
+	height: 100px;
+	width: 100px;
+        margin: 0;
+        position: absolute;
+        top: 50%;
+	left: 10px;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+	float: left;
+}
+
+.topBar {
+	position: absolute;
+	left: 120px;
+	bottom: 0;
+}
+
+.topBar a {
+	float: left;
+	border-radius: 5px 5px 0px 0px;
+	padding: 8px 8px 8px 8px;
+	background-color: #474669;
+	color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.topBar a:hover {
+	background-color: #818181;
+}
+
+h1 {
+	margin: 0;
+        position: relative;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        text-align: center;
+        color: #ffffff;
+}
+
+.sideBar {
+	height: 100%;
+	width: 120px;
+	position: absolute;
+	z-index: 1;
+	top: 120px;
+	left: 0;
+	overflow: auto;
+	background-color: #474669;
+}
+
+.sideBar .sideBarSection {
+	padding-top: 24px;
+}
+
+.sideBar .sideBarSection p {
+	margin: 0;
+	padding: 0px 16px 0px 16px;
+	text-decoration: underline;
+	font_size: 18;
+	color: #ffffff;
+}
+
+.sideBar .sideBarSection a {
+	padding: 8px 16px 0px 16px;
+	text-decoration: none;
+	font-size: 18px;
+	cursor: pointer;
+	color: #ffffff;
+	display: block;
+}
+
+.sideBar .sideBarSection a:hover {
+	cursor: pointer;
+	background-color: #818181;
+}
+
+section {
+	padding: 16px 152px 32px 152px;
+	position: absolute;
+	top: 120px;
+}
+
+section a {
+	margin-top: 32px;
+	padding: 8px 16px 8px 16px;
+	border-radius: 5px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #ffffff;
+        background-color: #131069;
+	display: inline-block;
+}
+
+section a:hover {
+        background-color: #818181;
+}
+
+table {
+	border-spacing: 32px 0;
+	text-align: left;
+}
+
+table a {
+	margin: 0px;
+	font-size: 16px;
+	padding: 4px 8px 4px 8px;
+}
+
+h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	display: block;
+}
+
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	display: block;
+}
+
+section img {
+        height: 200px;
+        width: 400px;
+        margin: 0;
+        position: absolute;
+        float: left;
+}
+
+a.mail:link {
+  display: contents;
+  color: blue;
+}
+
+span {
+	position: absolute;
+	top: 135px;
+	left: 165px;
+}
+
+#mapContainer {
+	padding: 420px 152px 0px 152px;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+}

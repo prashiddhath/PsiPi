@@ -1,0 +1,78 @@
+------------------------------------ 
+100	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/searchResultPage.php on line 24, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php
+------------------------------------ 
+------------------------------------ 
+101	PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/jwhiteley/public_html/searchResultPage.php on line 26, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php
+------------------------------------ 
+------------------------------------ 
+102	PHP Fatal error:  Uncaught Error: Call to a member function free_result() on bool in /people/home/jwhiteley/public_html/searchResultPage.php:52\nStack trace:\n#0 {main}\n  thrown in /people/home/jwhiteley/public_html/searchResultPage.php on line 52, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php
+------------------------------------ 
+------------------------------------ 
+103	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/searchResultPage.php on line 24, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=2
+------------------------------------ 
+------------------------------------ 
+104	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/searchResultPage.php on line 24, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=0
+------------------------------------ 
+------------------------------------ 
+105	PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/jwhiteley/public_html/searchResultPage.php on line 26, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=0
+------------------------------------ 
+------------------------------------ 
+106	PHP Fatal error:  Uncaught Error: Call to a member function free_result() on bool in /people/home/jwhiteley/public_html/searchResultPage.php:52\nStack trace:\n#0 {main}\n  thrown in /people/home/jwhiteley/public_html/searchResultPage.php on line 52, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=0
+------------------------------------ 
+------------------------------------ 
+107	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/itemPage.php on line 25, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/searchResultPage.php
+------------------------------------ 
+------------------------------------ 
+108	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/searchResultPage.php on line 24, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/itemPage.php?r=1
+------------------------------------ 
+------------------------------------ 
+109	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/searchResultPage.php on line 24, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/itemPage.php?r=6
+------------------------------------ 
+------------------------------------ 
+110	PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /people/home/jwhiteley/public_html/searchResultPage.php on line 24, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/itemPage.php?r=7
+------------------------------------ 
+------------------------------------ 
+111	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/landingPage.php
+------------------------------------ 
+------------------------------------ 
+112	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php
+------------------------------------ 
+------------------------------------ 
+113	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=2
+------------------------------------ 
+------------------------------------ 
+114	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/itemPage.php?r=7
+------------------------------------ 
+------------------------------------ 
+115	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/searchResultPage.php
+------------------------------------ 
+------------------------------------ 
+116	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/Login.php
+------------------------------------ 
+------------------------------------ 
+117	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/maintenancePage.php
+------------------------------------ 
+------------------------------------ 
+118	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/
+------------------------------------ 
+------------------------------------ 
+119	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=0
+------------------------------------ 
+------------------------------------ 
+120	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/mainPage.php?active=1
+------------------------------------ 
+------------------------------------ 
+121	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/imprint.php
+------------------------------------ 
+------------------------------------ 
+122	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/header.php on line 1, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/inputPages/physicists.php
+------------------------------------ 
+------------------------------------ 
+123	PHP Notice:  session_start(): A session had already been started - ignoring in /people/home/jwhiteley/public_html/feedbackPage.php on line 11, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/inputPages/physicists.php
+------------------------------------ 
+------------------------------------ 
+124	PHP Notice:  Undefined index: input in /people/home/jwhiteley/public_html/searchResultPage.php on line 19, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/
+------------------------------------ 
+------------------------------------ 
+125	PHP Notice:  Undefined index: query in /people/home/jwhiteley/public_html/searchResultPage.php on line 20, referer: http://clabsql.clamv.jacobs-university.de/~jwhiteley/
+------------------------------------ 
